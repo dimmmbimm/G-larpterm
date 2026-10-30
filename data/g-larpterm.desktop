@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=G-larpterm
+GenericName=Terminal
+Comment=A small terminal emulator
+Exec=g-larpterm
+Icon=g-larpterm
+Terminal=false
+Categories=System;TerminalEmulator;
+Keywords=terminal;console;shell;
+StartupNotify=true
+StartupWMClass=G-larpterm
